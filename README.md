@@ -1,2 +1,3 @@
-# advanced-midi
-Mesinha de som com memes. Divirta-se!
+# Advanced Midi
+
+Mesinha de som com memes, feita para tornar momentos ainda mais divertidos.
